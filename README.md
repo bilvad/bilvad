@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bilvad
-- 👀 I’m interested in ... cloud computing, robotics, ai
-- 🌱 I’m currently learning ...drone dev
-- 💞️ I’m looking to collaborate on ...robotics
-- 📫 How to reach me ... bilva.dixit on insra
+-Hi, I’m @bilva
+-I’m interested in cloud computing, python, data, and crypto
+-I’m currently learning blockchain engineering  
+-How to reach me bilva.dixit on instagram
 
 <!---
 bilvad/bilvad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
